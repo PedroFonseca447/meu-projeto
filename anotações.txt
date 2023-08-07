@@ -1,0 +1,19 @@
+class components(mais lento que o outro)
+
+são components de estado com uma nomenclatura declarada por meio de
+classe, exercem funções complexas e possuem um estado
+caíram em desuso
+
+interface mais amigavel
+
+functional components
+
+não possuem poder de gerir estado sozinhos, recebem as props e retornam um
+elemento.
+
+normalmente são declarados como uma função js, tendo mais função de 
+display, pode ser herdados como props aos filhos
+
+de preferencia a functional com "Hooks" para gerenciar o estaod e ciclo de vida
+
+sintaxe mais fácil
